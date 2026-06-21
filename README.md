@@ -107,5 +107,4 @@ Construir soluções práticas que conectem tecnologia, dados e automação para
 ## Contato
 
 - GitHub: [@HitokiriGD](https://github.com/HitokiriGD)
-- LinkedIn: coloque seu link aqui
-- E-mail: coloque seu e-mail profissional aqui
+- E-mail: gabrieldiogo.xd@gmail.com
